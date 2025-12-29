@@ -9,3 +9,6 @@ Internet: ON
 Kaggle Dataset used: https://www.kaggle.com/datasets/pacificrm/financial-sheets/code
 Reference Notebook to Explore the data: https://www.kaggle.com/code/ahmedayman7/financial-sheets-eda
 
+
+#link to kaggle notebook: https://www.kaggle.com/code/dhruvvraghu/notebook63cae627ad
+
